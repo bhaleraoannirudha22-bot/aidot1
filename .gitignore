@@ -1,0 +1,24 @@
+# Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+
+# Eggs
+.eggs/
+*.egg-info/
+*.egg
+
+# Files and directories to ignore
+*.log
+*.pot
+*.py,cover
+*.local,cfg
+.idea/
+.vscode/
